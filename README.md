@@ -1,0 +1,4 @@
+Ansible role template
+=====================
+
+

@@ -1,0 +1,22 @@
+galaxy_info:
+  author: Alexander E. Zabiralov
+  description: Ansible role template
+  company: Unorganized Inc.
+  license: MIT
+
+  min_ansible_version: 1.2
+  github_branch: master
+
+  platforms:
+  - name: Fedora
+    versions:
+    - all
+  - name: CentOS
+    versions:
+    - 8
+    - 7
+
+  galaxy_tags:
+    - template
+
+dependencies: []
