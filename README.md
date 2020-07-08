@@ -1,5 +1,4 @@
 Ansible role template
 =====================
 
-version 2020.1
-
+version 2020.7
