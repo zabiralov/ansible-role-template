@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: template
+  role_name: ansible-role-template
   author: Alexander E. Zabiralov
   description: Ansible role template
   company: Unorganized Inc.
